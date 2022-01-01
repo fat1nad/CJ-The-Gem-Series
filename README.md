@@ -1,6 +1,6 @@
 # CJ - The Gem Series
 
-A little AR application, for android, to browse through a made up retail product series.
+A little AR application to browse through a made up retail product series.
 
 ## How To Run
 
